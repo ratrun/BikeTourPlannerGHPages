@@ -1,2 +1,2 @@
 # BikeTourPlannerGHPages
-github io project for BikeTourPlanner
+github io project for [BikeTourPlanner](https://github.com/ratrun/biketourplanner)
