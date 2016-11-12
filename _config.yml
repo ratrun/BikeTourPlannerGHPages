@@ -25,7 +25,7 @@ description: > # this means to ignore newlines until "baseurl:"
  BikeTourPlanner is an open source desktop application for offline planning of bicycle tours based on the GraphHopper routing engine.
  It allows the user to generate the routing data from OpenStreetMap data.
  It uses offline maps which are provided by OSM2VectorTiles.
-baseurl: /BikeTourPlannerGHPages # the subpath of your site, e.g. /blog
+baseurl: /BikeTourPlannerGHPages
 github_username:  ratrun
 
 # Build settings
