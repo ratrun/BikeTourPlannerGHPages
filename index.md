@@ -2,6 +2,8 @@
 layout: default
 ---
 
+See [here](#anchors-in-markdown)
+
 # BikeTourPlanner
 
 BikeTourPlanner is an open source desktop application for offline planning of bicycle tours based on the [GraphHopper](https://github.com/graphhopper/graphhopper) routing engine. 
@@ -49,6 +51,7 @@ The reason is that the data comes from two separated sources.
 * Route from A to B with optional stopover points
 * Round-trips from a starting point with a targeted distance and optional heading
 * Display of the distance spent on way classifications
+* Display for unpaved segments as dashed line
 * Display of guessed ascend. Please note that the calculated value might be quite inaccurate!
 * Tuning between fast or nice routes
 * Routing takes elevation data into account. Tuning between steep or flat routes is possible for all the three bicycle types
@@ -67,3 +70,8 @@ The reason is that the data comes from two separated sources.
 
 ## Bugs
 Report bugs on [https://github.com/ratrun/biketourplanner](https://github.com/ratrun/biketourplanner/issues)
+
+### <a name="anchors-in-markdown"></a>Some heading
+
+
+
