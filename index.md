@@ -2,8 +2,6 @@
 layout: default
 ---
 
-See [here](#anchors-in-markdown)
-
 # BikeTourPlanner
 
 BikeTourPlanner is an open source desktop application for offline planning of bicycle tours based on the [GraphHopper](https://github.com/graphhopper/graphhopper) routing engine. 
@@ -64,8 +62,6 @@ The reason is that the data comes from two separated sources.
 * Searching OSM data by name and address via [Nominatim](http://wiki.openstreetmap.org/wiki/Nominatim) is possible, but requires internet connectivity.
 
 ## Limitations
-* Altough localisation code would be available in those parts which are common to GraphHopper, the localiszation is currently hard-coded to English. 
-  This way mixing up of languages is avoided
 * Currently switching between routing areas on Windows may freeze the application for a short period. On Linux this works fine
 
 ## Bugs
