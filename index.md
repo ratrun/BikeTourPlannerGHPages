@@ -64,7 +64,7 @@ The reason is that the data comes from two separated sources.
 ## Bugs
 Report bugs on [https://github.com/ratrun/biketourplanner](https://github.com/ratrun/biketourplanner/issues)
 
-### <a name="anchors-in-markdown"></a>Some heading
+### <a name="anchors-in-markdown"></a>
 
 
 
